@@ -74,7 +74,7 @@ Hardware: návrh vlastnej dosky pre ovládanie WS2815 adresovateľného 720 LED 
 ---
 
 ## Hlavné funkcie
-- Realtime ovládanie: Okamžitá reakcia mikroprocesora na zmeny z mobilnej aplikácie a vice versa
+- Realtime ovládanie: Okamžitá obojsmerná komunikácia medzi procesorom a aplikáciou
 - Automatizácia: Časovače a scenáre pre inteligentné ovládanie
 - Bezpečnosť: End-to-end zabezpečená komunikácia
 - Scalability: Architektúra podporujúca viaceré zariadenia
