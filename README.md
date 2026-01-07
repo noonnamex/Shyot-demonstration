@@ -1,6 +1,6 @@
 # Shyot
 
-**Flutter mobile app + Nest.js backend for remote ESP32 control via MQTT**
+**Flutter mobilná aplikácia + Nest.js backend pre vzdialené ovládanie ESP procesorov pomocou MQTT**
 
 [![Flutter](https://img.shields.io/badge/Flutter-3.16-blue)](https://flutter.dev)
 [![Nest.js](https://img.shields.io/badge/Backend-Nest.js-red)](https://nestjs.com)
