@@ -15,8 +15,8 @@ Hardware: návrh vlastnej dosky pre ovládanie WS2815 adresovateľného 720 LED 
 
 **Kompletný IoT systém pre vzdialené ovládanie mikrokontrolérov pomocou mobilnej aplikácie a cloud backendu.**
 
-🎥 Video Demo
-https://img.shields.io/badge/%F0%9F%8E%AC_Watch_Video-Shyot_Demonstration-red
+## 🎥 Video Demo
+[![Shyot Demonstration](https://img.shields.io/badge/🎬_Watch_Video-Shyot_Demonstration-red)](Shyot%20demonstration.mp4)
 
 (Video ukazuje kompletné fungovanie systému od mobilnej aplikácie po fyzické projekty)
 
@@ -81,7 +81,7 @@ https://img.shields.io/badge/%F0%9F%8E%AC_Watch_Video-Shyot_Demonstration-red
 
 ---
 
-## **Kontakt**
+## Kontakt
 
 Otvorím sa pre príležitosti v oblasti:
 - **Full-Stack vývoj** (Flutter + Backend)
@@ -89,11 +89,7 @@ Otvorím sa pre príležitosti v oblasti:
 - **Cross-platform mobilných aplikácií**
 - **Hardware/Software integrácie**
 
-📧 **Email**: tvoj.email@gmail.com  
-🔗 **LinkedIn**: [Tvoje Meno](https://linkedin.com/in/tvoj-profil)  
-💻 **GitHub**: [tvoj-github](https://github.com/tvoj-username)  
-*(Pridať ďalšie relevantné linky)*
-
+📧 **Email**: samuelmatus@centrum.sk 
 ---
 
 
