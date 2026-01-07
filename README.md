@@ -24,6 +24,14 @@
 | Mobile Dashboard | Device Control | Backend API |
 |------------------|----------------|-------------|
 | ![Dashboard](Flutter app/Screenshots/dashboard3.png) | ![Control](screenshots/mobile/control-panel.png) | ![API](screenshots/backend/api-test.png) |
+## Test 1 - Relatívna cesta
+![Test1](Flutter app/Screenshots/dashboard3.png)
+
+## Test 2 - Cesta s ./ na začiatku
+![Test2](./Flutter app/Screenshots/dashboard3.png)
+
+## Test 3 - Absolútna URL
+![Test3](https://raw.githubusercontent.com/TVOJ_USER/Shyot-demonstration/main/Flutter%20app/Screenshots/dashboard3.png)
 
 ## 🚀 Quick Links
 - **Video Demo:** [2-minute walkthrough](your-video-link) *(most important!)*
