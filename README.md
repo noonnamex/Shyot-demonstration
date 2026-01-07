@@ -79,8 +79,22 @@ https://img.shields.io/badge/%F0%9F%8E%AC_Watch_Video-Shyot_Demonstration-red
 - Bezpečnosť: End-to-end zabezpečená komunikácia
 - Scalability: Architektúra podporujúca viaceré zariadenia
 
+---
 
+## **Kontakt**
 
+Otvorím sa pre príležitosti v oblasti:
+- **Full-Stack vývoj** (Flutter + Backend)
+- **Embedded systémy & IoT**
+- **Cross-platform mobilných aplikácií**
+- **Hardware/Software integrácie**
+
+📧 **Email**: tvoj.email@gmail.com  
+🔗 **LinkedIn**: [Tvoje Meno](https://linkedin.com/in/tvoj-profil)  
+💻 **GitHub**: [tvoj-github](https://github.com/tvoj-username)  
+*(Pridať ďalšie relevantné linky)*
+
+---
 
 
 
