@@ -43,7 +43,7 @@ Hardware: návrh vlastnej dosky pre ovládanie WS2815 adresovateľného 720 LED 
 ## Embedded Systémy (C++)
 
 - ESP32/ESP8266 (WiFi Connectivity)
-- Vlastná shyot knižnica pre jednoduchú implementáciu
+- Vlastná shyot knižnica pre jednoduchú integráciu
 - Non-blocking timers pre plynulú prevádzku
 - Automatické reconnection pri strate WiFi/MQTT
 - Heartbeat správy pre monitoring online stavu
