@@ -1,3 +1,10 @@
+Shyot: 
+mobile app: flutter,riverpod,dart,mqtt,https,secure storage,MVVM,Android/iOS,TestFlight
+backend: jwt authentification, brearer token, mongoDB, https, mqtt gateway, real-time
+arduino ESP32/ESP8266: shyot library, non-blocking timers, automatic reconnect, heartbeat message, UART communication, Wifi komunikácia
+STM32: výkonovo náročné operácie, pokročilé riadenie, DMA, PWM, Timers, ADC, low-level programming
+Hardware: návrh vlastnej dosky pre ovládanie WS2815 adresovateľného 720 LED pásu
+
 # Shyot - IoT
 
 [![Flutter](https://img.shields.io/badge/Flutter-3.16-blue)](https://flutter.dev)
@@ -6,19 +13,18 @@
 [![MongoDB](https://img.shields.io/badge/Database-MongoDB-brightgreen)](https://mongodb.com)
 [![MQTT](https://img.shields.io/badge/Protocol-MQTT-orange)](https://mqtt.org)
 
-**Kompletný IoT systém na vzdialené ovládanie mikrokontrolérov pomocou mobilnej aplikácie a cloud backendu.**
+**Kompletný IoT systém pre vzdialené ovládanie mikrokontrolérov pomocou mobilnej aplikácie a cloud backendu.**
 
 ---
 
-## Čo je Shyot?
+## Mobilná Aplikácia (Flutter/Dart)
 
 Shyot je plnohodnotný IoT systém, ktorý umožňuje:
 
-- **Ovládať ESP8266, ESP32 a STM32 zariadenia** z mobilu odkiaľkoľvek
-- **Riadiť adresovateľné WS2815 LED pásky** s pokročilými efektmi pomocou PWM a DMA
-- **Komunikovať bezpečne** cez MQTT a HTTPS
-- **Ukladať históriu dát** v MongoDB cloudovej databáze
-- **Spravovať viac zariadení** naraz v reálnom čase
+- **Architektúra: MVVM s Riverpod pre stavový manažment
+- **Bezpečnosť: Secure Storage pre JWT tokeny, HTTPS komunikácia
+- **Realtime: MQTT klient pre okamžitú komunikáciu
+- **Cross-platform: Android/iOS s podporou TestFlight
 
 ---
 
