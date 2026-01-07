@@ -35,7 +35,7 @@ Hardware: návrh vlastnej dosky pre ovládanie WS2815 adresovateľného 720 LED 
 
 ---
 
-## Embedded Systémy
+## Embedded Systémy (C++)
 
 - ESP32/ESP8266 (WiFi Connectivity)
 - Vlastná shyot knižnica pre jednoduchú implementáciu
@@ -47,7 +47,7 @@ Hardware: návrh vlastnej dosky pre ovládanie WS2815 adresovateľného 720 LED 
 
 ---
 
-## STM32 (Výkonné ovládanie LED)
+## STM32 (C)
 
 - Pokročilé riadenie 720 WS2815 LED diód
 - DMA (Direct Memory Access) pre plynulý prenos dát
