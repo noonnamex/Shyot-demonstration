@@ -1,4 +1,4 @@
-# Shyot - IoT Demonstration Project
+# Shyot
 
 **Flutter mobile app + Nest.js backend for remote ESP32 control via MQTT**
 
