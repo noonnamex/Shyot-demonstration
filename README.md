@@ -1,4 +1,4 @@
-# Shyot - IoT Kontrolný Systém
+# Shyot - IoT
 
 [![Flutter](https://img.shields.io/badge/Flutter-3.16-blue)](https://flutter.dev)
 [![NestJS](https://img.shields.io/badge/Backend-NestJS-red)](https://nestjs.com)
