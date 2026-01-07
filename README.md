@@ -28,51 +28,51 @@ Hardware: návrh vlastnej dosky pre ovládanie WS2815 adresovateľného 720 LED 
 
 ## Backend Server (NestJS/TypeScript)
 
-- **Autentifikácia: JWT s bearer tokenmi
-- **Databáza: MongoDB pre ukladanie používateľských dát a nastavení
-- **Realtime Gateway: MQTT broker pre okamžitú komunikáciu s IoT zariadeniami
-- **API: RESTful API s HTTPS zabezpečením
+- Autentifikácia: JWT s bearer tokenmi
+- Databáza: MongoDB pre ukladanie používateľských dát a nastavení
+- Realtime Gateway: MQTT broker pre okamžitú komunikáciu s IoT zariadeniami
+- API: RESTful API s HTTPS zabezpečením
 
 ---
 
 ## Embedded Systémy
 
-- **ESP32/ESP8266 (WiFi Connectivity)
-- **Vlastná shyot knižnica pre jednoduchú implementáciu
-- **Non-blocking timers pre plynulú prevádzku
-- **Automatické reconnection pri strate WiFi/MQTT
-- **Heartbeat správy pre monitoring online stavu
-- **UART komunikácia s STM32
-- **MQTT klient pre cloud komunikáciu
+- ESP32/ESP8266 (WiFi Connectivity)
+- Vlastná shyot knižnica pre jednoduchú implementáciu
+- Non-blocking timers pre plynulú prevádzku
+- Automatické reconnection pri strate WiFi/MQTT
+- Heartbeat správy pre monitoring online stavu
+- UART komunikácia s STM32
+- MQTT klient pre cloud komunikáciu
 
 ---
 
 ## STM32 (Výkonné ovládanie LED)
 
-- **Pokročilé riadenie 720 WS2815 LED diód
-- **DMA (Direct Memory Access) pre plynulý prenos dát
-- **PWM generovanie pre presné ovládanie
-- **Low-level programovanie v C
-- **ADC (Analog-Digital Converter) pre snímanie prúdu
-- **Optimalizované časovače (Timers)
-- **UART komunikácia s nadradeným systémom
+- Pokročilé riadenie 720 WS2815 LED diód
+- DMA (Direct Memory Access) pre plynulý prenos dát
+- PWM generovanie pre presné ovládanie
+- Low-level programovanie v C
+- ADC (Analog-Digital Converter) pre snímanie prúdu
+- Optimalizované časovače (Timers)
+- UART komunikácia s nadradeným systémom
 
 ---
 
 ## Hardware & PCB Dizajn
-- **Návrh vlastnej dosky pre ovládanie WS2815 LED pásu
-- **Power management pre vysoký prúdový odber
-- **Signal integrity pre stabilný dátový prenos
-- **Over-current ochrana
-- **Optimalizované rozmiestnenie komponentov
+- Návrh vlastnej dosky pre ovládanie WS2815 LED pásu
+- Power management pre vysoký prúdový odber
+- Signal integrity pre stabilný dátový prenos
+- Over-current ochrana
+- Optimalizované rozmiestnenie komponentov
 
 ---
 
 ## Hlavné funkcie
-- **Realtime ovládanie: Okamžitá reakcia na zmeny z mobilnej aplikácie
-- **Automatizácia: Časovače a scenáre pre inteligentné ovládanie
-- **Bezpečnosť: End-to-end zabezpečená komunikácia
-- **Scalability: Architektúra podporujúca viaceré zariadenia
+- Realtime ovládanie: Okamžitá reakcia na zmeny z mobilnej aplikácie
+- Automatizácia: Časovače a scenáre pre inteligentné ovládanie
+- Bezpečnosť: End-to-end zabezpečená komunikácia
+- Scalability: Architektúra podporujúca viaceré zariadenia
 
 
 
