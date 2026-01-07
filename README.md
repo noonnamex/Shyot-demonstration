@@ -19,8 +19,6 @@ Hardware: návrh vlastnej dosky pre ovládanie WS2815 adresovateľného 720 LED 
 
 ## Mobilná Aplikácia (Flutter/Dart)
 
-Shyot je plnohodnotný IoT systém, ktorý umožňuje:
-
 - **Architektúra: MVVM s Riverpod pre stavový manažment
 - **Bezpečnosť: Secure Storage pre JWT tokeny, HTTPS komunikácia
 - **Realtime: MQTT klient pre okamžitú komunikáciu
@@ -28,59 +26,68 @@ Shyot je plnohodnotný IoT systém, ktorý umožňuje:
 
 ---
 
-## Architektúra Systému
+## Backend Server (NestJS/TypeScript)
 
-
-## 🛠️ Technologický Stack
-
-### **Mobilná Aplikácia (Flutter)**
-- **Framework:** Flutter 3.16 + Dart 3.0
-- **Architektúra:** MVVM s Riverpod state management
-- **Funkcie:** Reálny čas, MQTT klient, HTTPS komunikácia
-- **Platformy:** iOS a Android
-
-### **Cloud Backend (NestJS)**
-- **Framework:** NestJS 10.0 + TypeScript
-- **Databáza:** MongoDB 7.0 s Mongoose ODM
-- **Komunikácia:** MQTT broker, REST API, WebSocket
-- **Infraštruktúra:** Linode VPS, Docker, Nginx + SSL
-
-### **Embedded Systémy**
-- **Mikrokontroléry:** ESP8266, ESP32, STM32
-- **Jazyk:** C++ (Arduino framework)
-- **Periférie:** WS2815 LED, PWM, DMA, GPIO
-- **Nástroje:** PlatformIO, VS Code
-
-### **Bezpečnosť a Protokoly**
-- **Šifrovanie:** HTTPS/TLS pre všetku komunikáciu
-- **Autentifikácia:** JWT tokeny, certifikáty zariadení
-- **Protokoly:** MQTT 3.1.1, HTTP/2, WebSocket
+- **Autentifikácia: JWT s bearer tokenmi
+- **Databáza: MongoDB pre ukladanie používateľských dát a nastavení
+- **Realtime Gateway: MQTT broker pre okamžitú komunikáciu s IoT zariadeniami
+- **API: RESTful API s HTTPS zabezpečením
 
 ---
 
-## 🚀 Kľúčové Funkcie
+## Embedded Systémy
 
-### **Mobilná Aplikácia**
-- Dashboard v reálnom čase s MVVM architektúrou
-- Pokročilé ovládanie LED pások (WS2815) s efektami
-- Konfigurácia PWM a DMA parametrov
-- Automatizácia pomocou časovačov
-- Zabezpečená MQTT komunikácia s QoS podporou
-- Správa viacerých zariadení (ESP8266/32, STM32)
+- **ESP32/ESP8266 (WiFi Connectivity)
+- **Vlastná shyot knižnica pre jednoduchú implementáciu
+- **Non-blocking timers pre plynulú prevádzku
+- **Automatické reconnection pri strate WiFi/MQTT
+- **Heartbeat správy pre monitoring online stavu
+- **UART komunikácia s STM32
+- **MQTT klient pre cloud komunikáciu
 
-### **Backend Server**
-- Škálovateľný MQTT broker pre 1000+ zariadení
-- Ukladanie časových radov do MongoDB
-- Device provisioning a správa certifikátov
-- OTA (Over-The-Air) aktualizácie firmware
-- Real-time monitoring a analýzy
+---
 
-### **Hardvérová Integrácia**
-- Vlastná Shyot knižnica pre ESP platformy
-- Ovládanie WS2815 LED pások s gamma korekciou
-- Pokročilé PWM s DMA pre plynulé animácie
-- Komunikácia so STM32 cez sériový protokol
-- Nízko-energetické režimy a wake-up mechanizmy
+## STM32 (Výkonné ovládanie LED)
+
+- **Pokročilé riadenie 720 WS2815 LED diód
+- **DMA (Direct Memory Access) pre plynulý prenos dát
+- **PWM generovanie pre presné ovládanie
+- **Low-level programovanie v C
+- **ADC (Analog-Digital Converter) pre snímanie prúdu
+- **Optimalizované časovače (Timers)
+- **UART komunikácia s nadradeným systémom
+
+---
+
+## Hardware & PCB Dizajn
+- **Návrh vlastnej dosky pre ovládanie WS2815 LED pásu
+- **Power management pre vysoký prúdový odber
+- **Signal integrity pre stabilný dátový prenos
+- **Over-current ochrana
+- **Optimalizované rozmiestnenie komponentov
+
+---
+
+## Hlavné funkcie
+- **Realtime ovládanie: Okamžitá reakcia na zmeny z mobilnej aplikácie
+- **Automatizácia: Časovače a scenáre pre inteligentné ovládanie
+- **Bezpečnosť: End-to-end zabezpečená komunikácia
+- **Scalability: Architektúra podporujúca viaceré zariadenia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
