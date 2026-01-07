@@ -19,10 +19,10 @@ Hardware: návrh vlastnej dosky pre ovládanie WS2815 adresovateľného 720 LED 
 
 ## Mobilná Aplikácia (Flutter/Dart)
 
-- **Architektúra: MVVM s Riverpod pre stavový manažment
-- **Bezpečnosť: Secure Storage pre JWT tokeny, HTTPS komunikácia
-- **Realtime: MQTT klient pre okamžitú komunikáciu
-- **Cross-platform: Android/iOS s podporou TestFlight
+- Architektúra: MVVM s Riverpod pre stavový manažment
+- Bezpečnosť: Secure Storage pre JWT tokeny, HTTPS komunikácia
+- Realtime: MQTT klient pre okamžitú komunikáciu
+- Cross-platform: Android/iOS s podporou TestFlight
 
 ---
 
