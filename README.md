@@ -6,11 +6,9 @@
 [![Nest.js](https://img.shields.io/badge/Backend-Nest.js-red)](https://nestjs.com)
 [![ESP32](https://img.shields.io/badge/Hardware-ESP32-green)](https://www.espressif.com)
 
-## 🎯 Quick Overview
+## Prehľad
+**Čo projekt robí:** Ovláda ESP procesory odkiaľkolvek cez WiFi, pomocou MQTT protokolu a mobilnej aplikácie
 
-**What it does:** Control ESP32 microcontroller devices remotely from a mobile app  
-**Core technology:** MQTT real-time communication  
-**My role:** Full-stack development (mobile + backend)
 
 ## 📱 Mobile App (Flutter)
 - Real-time device dashboard
