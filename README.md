@@ -18,7 +18,7 @@ Hardware: návrh vlastnej dosky pre ovládanie WS2815 adresovateľného 720 LED 
 🎥 Video Demo
 https://img.shields.io/badge/%F0%9F%8E%AC_Watch_Video-Shyot_Demonstration-red
 
-(Video ukazuje kompletné fungovanie systému od mobilnej aplikácie po fyzické LED ovládanie)
+(Video ukazuje kompletné fungovanie systému od mobilnej aplikácie po fyzické projekty)
 
 ---
 
