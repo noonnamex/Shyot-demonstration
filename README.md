@@ -23,7 +23,7 @@
 ## 📸 Screenshots
 | Mobile Dashboard | Device Control | Backend API |
 |------------------|----------------|-------------|
-| ![Dashboard](Flutter app/Screenshots/home screen.PNG) | ![Control](screenshots/mobile/control-panel.png) | ![API](screenshots/backend/api-test.png) |
+| ![Dashboard](Flutter app/Screenshots/dashboard3.PNG) | ![Control](screenshots/mobile/control-panel.png) | ![API](screenshots/backend/api-test.png) |
 
 ## 🚀 Quick Links
 - **Video Demo:** [2-minute walkthrough](your-video-link) *(most important!)*
