@@ -10,20 +10,20 @@
 **Čo projekt robí:** Ovláda ESP procesory odkiaľkolvek cez WiFi, pomocou MQTT protokolu a mobilnej aplikácie
 
 
-## 📱 Mobile App (Flutter)
-- Real-time device dashboard
-- MQTT client for device communication
-- Cross-platform (iOS/Android)
+## Mobilná aplikácia (Flutter)
+- Riadenie zariadení v reálnom čase
+- MQTT klient pre komunikáciu so zariadením
+- Multi-platformová aplikácia (iOS/Android)
 
 ## ⚙️ Backend (Nest.js)
-- MQTT broker implementation
-- REST API for mobile app
-- Device authentication
+- MQTT broker implementácia
+- REST API pre aplikáciu
+- Overovanie prihlásenia
 
 ## 📸 Screenshots
 | Mobile Dashboard | Device Control | Backend API |
 |------------------|----------------|-------------|
-| ![Dashboard](screenshots/mobile/dashboard.png) | ![Control](screenshots/mobile/control-panel.png) | ![API](screenshots/backend/api-test.png) |
+| ![Dashboard](Flutter app/Screenshots/home screen.PNG) | ![Control](screenshots/mobile/control-panel.png) | ![API](screenshots/backend/api-test.png) |
 
 ## 🚀 Quick Links
 - **Video Demo:** [2-minute walkthrough](your-video-link) *(most important!)*
