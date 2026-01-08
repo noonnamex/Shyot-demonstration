@@ -20,7 +20,7 @@ Hardware: návrh vlastnej dosky pre ovládanie WS2815 adresovateľného 720 LED 
 
 (Video ukazuje kompletné fungovanie systému od mobilnej aplikácie po fyzické projekty)
 
-## workflow
+## Workflow
 Mobile app -> Linode server -> ESP32 -> STM32 -> LED strip
 
 ---
