@@ -60,7 +60,7 @@ Hardware: návrh vlastnej dosky pre ovládanie WS2815 adresovateľného 720 LED 
 - Low-level programovanie v C
 - ADC (Analog-Digital Converter) pre snímanie prúdu
 - Optimalizované časovače (Timers)
-- UART komunikácia s nadradeným systémom
+- UART komunikácia s nadradeným systémom Simplex
 
 ---
 
