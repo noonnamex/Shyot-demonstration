@@ -1,4 +1,4 @@
-Shyot: 
+Shyot
 mobile app: flutter,riverpod,dart,mqtt,https,secure storage,MVVM,Android/iOS,TestFlight
 backend: jwt authentification, brearer token, mongoDB, https, mqtt gateway, real-time
 arduino ESP32/ESP8266: shyot library, non-blocking timers, automatic reconnect, heartbeat message, UART communication, Wifi komunikácia
