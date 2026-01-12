@@ -15,7 +15,7 @@
 [![Shyot Demonstration](https://img.shields.io/badge/🎬_Watch_Video-Shyot_Demonstration-red)](https://www.youtube.com/watch?v=pQ44LPSa9n4)
 
 
-Video ukazuje kompletné fungovanie systému od mobilnej aplikácie po fyzické projekty. K lepšej predstave pomôže (![Flowchart systému](Shyot%20flowchart.png))
+Video ukazuje kompletné fungovanie systému od mobilnej aplikácie po fyzické projekty. K lepšej predstave pomôže flowchart: ![Flowchart systému](Shyot%20flowchart.png)
 
 
 
