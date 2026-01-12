@@ -6,12 +6,18 @@
 [![MongoDB](https://img.shields.io/badge/Database-MongoDB-brightgreen)](https://mongodb.com)
 [![MQTT](https://img.shields.io/badge/Protocol-MQTT-orange)](https://mqtt.org)
 
+
 **Kompletný IoT systém pre vzdialené ovládanie mikrokontrolérov pomocou mobilnej aplikácie a cloud backendu.**
 
+
+
 ## 🎥 Video Demo
-[![Shyot Demonstration](https://img.shields.io/badge/🎬_Watch_Video-Shyot_Demonstration-red)]([Shyot%20video.mp4](https://www.youtube.com/watch?v=pQ44LPSa9n4))
+[![Shyot Demonstration](https://img.shields.io/badge/🎬_Watch_Video-Shyot_Demonstration-red)](https://www.youtube.com/watch?v=pQ44LPSa9n4)
+
 
 (Video ukazuje kompletné fungovanie systému od mobilnej aplikácie po fyzické projekty)
+
+
 
 ## Mobilná Aplikácia (Flutter/Dart)
 
