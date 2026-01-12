@@ -1,10 +1,3 @@
-Shyot
-mobile app: flutter,riverpod,dart,mqtt,https,secure storage,MVVM,Android/iOS,TestFlight
-backend: jwt authentification, brearer token, mongoDB, https, mqtt gateway, real-time
-arduino ESP32/ESP8266: shyot library, non-blocking timers, automatic reconnect, heartbeat message, UART communication, Wifi komunikácia
-STM32: výkonovo náročné operácie, pokročilé riadenie, DMA, PWM, Timers, ADC, low-level programming
-Hardware: návrh vlastnej dosky pre ovládanie WS2815 adresovateľného 720 LED pásu
-
 # Shyot - IoT
 
 [![Flutter](https://img.shields.io/badge/Flutter-dart-blue)](https://flutter.dev)
