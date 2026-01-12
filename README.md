@@ -7,7 +7,7 @@ Hardware: návrh vlastnej dosky pre ovládanie WS2815 adresovateľného 720 LED 
 
 # Shyot - IoT
 
-[![Flutter](https://img.shields.io/badge/Flutter-3.16-blue)](https://flutter.dev)
+[![Flutter](https://img.shields.io/badge/Flutter-dart-blue)](https://flutter.dev)
 [![NestJS](https://img.shields.io/badge/Backend-NestJS-red)](https://nestjs.com)
 [![ESP32](https://img.shields.io/badge/Hardware-ESP32/STM32-green)](https://www.espressif.com)
 [![MongoDB](https://img.shields.io/badge/Database-MongoDB-brightgreen)](https://mongodb.com)
